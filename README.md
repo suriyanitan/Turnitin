@@ -1,1 +1,1 @@
-# Turnitin-IJPA
+# Turnitin
